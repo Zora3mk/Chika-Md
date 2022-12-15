@@ -82,15 +82,15 @@ global.sp = '⭔'
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
 success: '_Done._',
-admin: '_Fitur Khusus Admin Group!_',
-botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
-owner: '_Fitur Khusus Owner Bot_',
-group: '_Fitur Digunakan Hanya Untuk Group!_',
-private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
-bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses..._',
-error: '_Fitur Sedang Error!_',
-endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
+admin: '_ميزات الأدن!_',
+botAdmin: '_لازم يكون البوت أدمن!_',
+owner: '_ميزات خاصة فقط لصاحب البوت_',
+group: '_هذه الميزات تستخدم فقط في المجموعات!_',
+private: '_هذه الميزات تستخدم فقط في الخاص!_',
+bot: '_ميزات خاصة لمستخدمي ارقام البوت_',
+wait: '_انتظر شوي برذر_',
+error: '_خطأ في الميزة!_',
+endLimit: '_خلص الوقت, المدة بتتحدث كل 12 ساعه_',
 }
 
 //—————「 Batas Akhir 」—————//
