@@ -1,6 +1,5 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By Zora
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -22,27 +21,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['+96171350883','+96171350883','+96171350883'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['+96171350883'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '+96171350883' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Zora' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Zora Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Zora' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
-global.region = 'indonesia'
+global.youtube = '@VEOEDITING'
+global.ig = '@nozex___'
+global.mygc = '+96171350883'
+global.tiktok = '@.nozex'
+global.email = 'zora223ak@gmail.com'
+global.region = 'Lebanon'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = 'Zora' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Zora' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -62,17 +61,17 @@ global.thumb = fs.readFileSync('./image/chika.jpg')
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
+global.BgWelcLeav = 'https://images.app.goo.gl/oUZzupRNqJzWvgSh7'
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.flaming = 'https://images.app.goo.gl/QMXnPSdsgxPiaDYcA'
+global.fluming = 'https://images.app.goo.gl/9gep42vBeAzYrkd77'
+global.flarun = 'https://images.app.goo.gl/tw5m6b33parfBjS47'
+global.flasmurf = 'https://images.app.goo.gl/BtpkuvCwWVVMityC9'
 
 //—————「 Set Prefix 」—————//
-//gausah di apa² in!
+//gausah di apa² in/
 global.prefa = ['','!','.','🐦','🐤','🗿']
 
 //—————「 Set Simbol 」—————//
